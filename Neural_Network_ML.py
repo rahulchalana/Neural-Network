@@ -4,7 +4,7 @@ from sklearn.model_selection import train_test_split
 import warnings
 warnings.filterwarnings("ignore")
 
-data = pd.read_csv('Logistic_regression_ls.csv')
+data = pd.read_csv('NN.csv')
 
 x_data = data[['x1','x2']]
 y_data = data['label']
