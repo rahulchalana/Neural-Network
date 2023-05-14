@@ -5,4 +5,4 @@
 
 ~ Calculated all the evaluation matrics including Accuracy, Precision, Recall, F1-Score and Confusion Matrix.
 
-~ Implemented teh same for one more activation function: tanh function
+~ Implemented the same for more activation functions: tanh function and ReLu function.
